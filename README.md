@@ -1,4 +1,4 @@
-# News Topic Classifier — Fine-tuned BERT on AG News
+# News Topic Classifier - Fine-tuned BERT on AG News
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat&logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red?style=flat&logo=pytorch)
@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat)
 
-> **DevelopersHub Corporation — AI/ML Engineering Internship | Task 1**
+> **DevelopersHub Corporation - AI/ML Engineering Internship**
 
 A fine-tuned `bert-base-uncased` transformer model for multi-class news topic classification, trained on the AG News dataset (120,000 articles). Deployed as an interactive Gradio web application with real-time headline classification and confidence scores.
 
@@ -15,7 +15,7 @@ A fine-tuned `bert-base-uncased` transformer model for multi-class news topic cl
 
 ## Overview
 
-With millions of news articles published daily, automatically categorizing them into topics is a fundamental NLP challenge. This project demonstrates **transfer learning** with BERT — taking a model pre-trained on 3.3 billion words and fine-tuning it for news classification with just 8,000 training samples, achieving ~93–95% accuracy on the full AG News test set.
+With millions of news articles published daily, automatically categorizing them into topics is a fundamental NLP challenge. This project demonstrates **transfer learning** with BERT - taking a model pre-trained on 3.3 billion words and fine-tuning it for news classification with just 8,000 training samples, achieving ~93–95% accuracy on the full AG News test set.
 
 ### Categories
 
@@ -48,7 +48,7 @@ With millions of news articles published daily, automatically categorizing them 
 | Weighted F1 | ~93–95% |
 | Macro F1 | ~93–95% |
 
-> *BERT fine-tuned on full 120K AG News reaches ~94.6% — published benchmark*
+> *BERT fine-tuned on full 120K AG News reaches ~94.6% - published benchmark*
 
 ---
 
@@ -115,7 +115,7 @@ pip install -r requirements.txt
 
 ---
 
-## Training (Google Colab — GPU Required)
+## Training (Google Colab - GPU Required)
 
 Fine-tuning BERT on CPU takes 8–12 hours. Use Google Colab with a free T4 GPU (~15–25 minutes).
 
@@ -139,7 +139,7 @@ files.download('bert_news_classifier_final.zip')
 
 ---
 
-## Running the Gradio App (Local — No GPU Needed)
+## Running the Gradio App (Local - No GPU Needed)
 
 Once you have the trained model folder:
 
@@ -230,6 +230,7 @@ Class Probabilities (World / Sports / Business / Sci/Tech)
 
 **Rabiya Malik**
 BS Software Engineering. 
+
 AI/ML Engineering Intern @ DevelopersHub Corporation.
 
 [![GitHub](https://img.shields.io/badge/GitHub-RabiyaMalik242-black?style=flat&logo=github)](https://github.com/RabiyaMalik242)
