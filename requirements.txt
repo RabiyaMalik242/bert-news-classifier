@@ -1,10 +1,12 @@
-transformers
-datasets
-accelerate
-gradio
+transformers==4.45.2
+datasets==2.21.0
+huggingface_hub==0.25.2
+tokenizers==0.20.1
+accelerate==0.34.2
+gradio==5.38.2
 torch
 scikit-learn
 matplotlib
 seaborn
-numpy
 pandas
+numpy
