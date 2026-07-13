@@ -95,7 +95,7 @@ bert-news-classifier/
 
 ---
 
-## Setup & Installation
+## Setup and Installation
 
 ### Prerequisites
 - Python 3.10+
@@ -234,7 +234,7 @@ BS Software Engineering.
 AI/ML Engineering Intern @ DevelopersHub Corporation.
 
 [![GitHub](https://img.shields.io/badge/GitHub-RabiyaMalik242-black?style=flat&logo=github)](https://github.com/RabiyaMalik242)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rabiya-malik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rabiya-malik-325848336/)
 
 ---
 
