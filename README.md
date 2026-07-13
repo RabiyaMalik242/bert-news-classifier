@@ -228,7 +228,7 @@ Class Probabilities (World / Sports / Business / Sci/Tech)
 
 ## Author
 
-**Rabiya Malik**
+**Rabiya Malik** - 
 BS Software Engineering. 
 
 AI/ML Engineering Intern @ DevelopersHub Corporation.
